@@ -16,4 +16,4 @@ pipenv sync -d
 ```bash
 jupyter notebook
 ```
-Checkout our blogpost __ for more technical information.
+Checkout our blogpost https://medium.com/cognite/inso-insights-online-steady-state-detection-for-process-control-fae91567e560 for more technical information.
